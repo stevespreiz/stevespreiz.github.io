@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Steven Spreizer. I'm a master's student in aeronautical engineering at Rensselaer Polytechnic Institute as a part of the Scientific Computation Research Center ([SCOREC][scorec-github]).
+I completed my bachelor's also at RPI in aeronautical and mechanical engineering with a minor in computer science. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a runner and compete on the NCAA D3 cross country and track & field teams at RPI. Other hobbies I have include photography, cooking, and building projects, many of which are featured on this site. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I hope you enjoy the content I've put together here. You can find out more about me on my [LinkedIn][linkedin-site] and can see my code and software projects I've worked on over on my [GitHub][github-link].
 
-
-[jekyll-organization]: https://github.com/jekyll
+[github-link]: https://github.com/stevespreiz
+[scorec-github]: https://github.com/scorec
+[linkedin-site]: https://linkedin.com/in/steven-spreizer-jr/
